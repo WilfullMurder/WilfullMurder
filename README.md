@@ -1,5 +1,9 @@
 # Hi there, I'm WilfullMurder 👋
 
+I am the Lead Software Engineer at SpaceKraft Ltd specializing in research and development of Software-Driven sensory solutions for children with complex needs.
+
+Additionally, I am an Engineering Leaders Scholar with the Royal Academy of Engineering, and a Graduate Engineering Engagement Program Mentor with the Royal Academy of Engineering.
+
 ## GitHub Stats
 
 ![WilfullMurder's GitHub stats](https://github-readme-stats.vercel.app/api?username=WilfullMurder&show_icons=true&theme=radical)
