@@ -19,7 +19,3 @@ Additionally, I am an Engineering Leaders Scholar with the Royal Academy of Engi
 ## GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WilfullMurder&theme=radical)
-
-## Visitor Count
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=WilfullMurder.WilfullMurder)
