@@ -15,3 +15,22 @@ Additionally, I am an Engineering Leaders Scholar with the Royal Academy of Engi
 ## Contributions
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=WilfullMurder&theme=radical)
+
+## GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WilfullMurder&theme=radical)
+
+## Visitor Count
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=WilfullMurder.WilfullMurder)
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## Pinned Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WilfullMurder&repo=repo1&theme=radical)](https://github.com/WilfullMurder/repo1)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=WilfullMurder&repo=repo2&theme=radical)](https://github.com/WilfullMurder/repo2)
+
