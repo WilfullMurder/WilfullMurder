@@ -19,11 +19,3 @@ Additionally, I am an Engineering Leaders Scholar with the Royal Academy of Engi
 ## GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=WilfullMurder&theme=radical)
-
-## GitHub Skyline
-
-[![GitHub Skyline](https://skyline.github.com/WilfullMurder/2023)](https://skyline.github.com/WilfullMurder/2023)
-
-## Wakatime Stats
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=WilfullMurder&theme=radical)
