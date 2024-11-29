@@ -12,8 +12,8 @@ Additionally, I am an Engineering Leaders Scholar with the Royal Academy of Engi
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=plastic&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=plastic&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 ### Machine Learning and AI
 
