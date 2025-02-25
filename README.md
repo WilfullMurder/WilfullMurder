@@ -1,4 +1,4 @@
-# Hi there, I'm WilfullMurder 👋
+# Hi there, I'm Jacob
 
 I am the Lead Software Engineer at SpaceKraft Ltd specializing in research and development of Software-Driven sensory solutions for children with complex needs.
 Particularly interested in cerebral visual impairment and concerned with visual development of premature babies during their stay in Neo-natal Intensive Care.
